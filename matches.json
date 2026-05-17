@@ -4,5 +4,11 @@
     "away": "Real Madrid",
     "time": "20:00",
     "channel": "beIN SPORTS 1"
+  },
+  {
+    "home": "Atletico Madrid",
+    "away": "Girona",
+    "time": "21:00",
+    "channel": "beIN SPORTS 2"
   }
 ]

@@ -1,0 +1,10 @@
+[
+  {
+    "homeLogo": "https://crests.football-data.org/57.png",
+    "awayLogo": "https://crests.football-data.org/328.png"
+  },
+  {
+    "homeLogo": "https://example.com/team1.png",
+    "awayLogo": "https://example.com/team2.png"
+  }
+]

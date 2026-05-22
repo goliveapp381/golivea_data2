@@ -1,5 +1,3 @@
 {
-  "server": "http://moka-pro.com:80",
-  "username": "mokapro",
-  "password": "994466"
+  "m3u": "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlist.m3u8"
 }

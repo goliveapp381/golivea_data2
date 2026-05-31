@@ -1,7 +1,10 @@
 
 {
   "playlists": [
-    
+    {
+      "name": "IPTV List 1",
+      "url": "https://raw.githubusercontent.com/Mesbahikarim03-svg/IPTV_jdj/main/FIW_1780248576_1_5b6bfc_FREE_IPTV_WORLD_Hunter_8666.m3u"
+    },
     {
       "name": "IPTV List 2",
       "url": "https://raw.githubusercontent.com/Mesbahikarim03-svg/IPTV_jdj/main/FIW_1779511230_1_4ac788_FREE_IPTV_WORLD_Hunter_A5E9.m3u"

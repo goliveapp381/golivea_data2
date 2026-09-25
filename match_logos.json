@@ -1,46 +1,46 @@
 [
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Senegal.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
+    "homeLogo": "https://flagcdn.com/w160/sn.png",
+    "awayLogo": "https://flagcdn.com/w160/mz.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
+    "homeLogo": "https://flagcdn.com/w160/ma.png",
+    "awayLogo": "https://flagcdn.com/w160/ga.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/fe/fe/Flag_of_Egypt.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
+    "homeLogo": "https://flagcdn.com/w160/eg.png",
+    "awayLogo": "https://flagcdn.com/w160/ao.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Northern_Ireland_%281953%E2%80%931972%29.svg"
+    "homeLogo": "https://flagcdn.com/w160/ge.png",
+    "awayLogo": "https://flagcdn.com/w160/gb-nir.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+    "homeLogo": "https://flagcdn.com/w160/hu.png",
+    "awayLogo": "https://flagcdn.com/w160/ua.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+    "homeLogo": "https://flagcdn.com/w160/am.png",
+    "awayLogo": "https://flagcdn.com/w160/lv.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Flag_of_Montenegro.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+    "homeLogo": "https://flagcdn.com/w160/me.png",
+    "awayLogo": "https://flagcdn.com/w160/cy.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+    "homeLogo": "https://flagcdn.com/w160/it.png",
+    "awayLogo": "https://flagcdn.com/w160/be.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/c/c3/Flag_of_France.svg"
+    "homeLogo": "https://flagcdn.com/w160/tr.png",
+    "awayLogo": "https://flagcdn.com/w160/fr.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Flag_of_Poland.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+    "homeLogo": "https://flagcdn.com/w160/pl.png",
+    "awayLogo": "https://flagcdn.com/w160/ba.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+    "homeLogo": "https://flagcdn.com/w160/se.png",
+    "awayLogo": "https://flagcdn.com/w160/ro.png"
   }
 ]

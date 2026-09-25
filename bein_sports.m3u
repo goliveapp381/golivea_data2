@@ -2,16 +2,16 @@
 
 # ===== beIN Sports 4K =====
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693821.png" group-title="beIN Sports 4K",beIN SPORTS 4K 1
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693821.png" group-title="beIN Sports 4K",beIN Sports 1 4K
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693821.ts
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/26806.png" group-title="beIN Sports 4K",beIN Sports 1 4K H265
 http://0809-2026.info:8089/live/3604284623086/7463647389596/26806.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693822.png" group-title="beIN Sports 4K",beIN SPORTS 4K 2
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693822.png" group-title="beIN Sports 4K",beIN Sports 2 4K
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693822.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693823.png" group-title="beIN Sports 4K",beIN SPORTS 4K 3
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693823.png" group-title="beIN Sports 4K",beIN Sports 3 4K
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693823.ts
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/26804.png" group-title="beIN Sports 4K",beIN Sports 3 4K H265
@@ -20,7 +20,7 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/26804.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/26803.png" group-title="beIN Sports 4K",beIN Sports 4 4K H265
 http://0809-2026.info:8089/live/3604284623086/7463647389596/26803.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693825.png" group-title="beIN Sports 4K",beIN SPORTS 4K 5
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693825.png" group-title="beIN Sports 4K",beIN Sports 5 4K
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693825.ts
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/26801.png" group-title="beIN Sports 4K",beIN Sports 6 4K H265
@@ -44,58 +44,58 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/815.ts
 
 # ===== beIN Sports FHD =====
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693808.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 1
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693808.jpg" group-title="beIN Sports FHD",beIN Sports 1 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693808.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693809.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 2
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693809.jpg" group-title="beIN Sports FHD",beIN Sports 2 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693809.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693810.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 3
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693810.jpg" group-title="beIN Sports FHD",beIN Sports 3 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693810.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693811.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 4
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693811.jpg" group-title="beIN Sports FHD",beIN Sports 4 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693811.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693812.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 5
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693812.jpg" group-title="beIN Sports FHD",beIN Sports 5 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693812.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693813.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 6
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693813.jpg" group-title="beIN Sports FHD",beIN Sports 6 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693813.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693814.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 7
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693814.jpg" group-title="beIN Sports FHD",beIN Sports 7 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693814.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693815.jpg" group-title="beIN Sports FHD",beIN SPORTS FHD 8
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693815.jpg" group-title="beIN Sports FHD",beIN Sports 8 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693815.ts
 
 
 # ===== beIN Sports HD =====
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693789.jpg" group-title="beIN Sports HD",beIN SPORTS HD 1
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693789.jpg" group-title="beIN Sports HD",beIN Sports 1 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693789.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693790.jpg" group-title="beIN Sports HD",beIN SPORTS HD 2
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693790.jpg" group-title="beIN Sports HD",beIN Sports 2 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693790.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693791.jpg" group-title="beIN Sports HD",beIN SPORTS HD 3
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693791.jpg" group-title="beIN Sports HD",beIN Sports 3 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693791.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693792.jpg" group-title="beIN Sports HD",beIN SPORTS HD 4
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693792.jpg" group-title="beIN Sports HD",beIN Sports 4 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693792.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693793.jpg" group-title="beIN Sports HD",beIN SPORTS HD 5
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693793.jpg" group-title="beIN Sports HD",beIN Sports 5 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693793.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693794.jpg" group-title="beIN Sports HD",beIN SPORTS HD 6
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693794.jpg" group-title="beIN Sports HD",beIN Sports 6 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693794.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693795.jpg" group-title="beIN Sports HD",beIN SPORTS HD 7
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693795.jpg" group-title="beIN Sports HD",beIN Sports 7 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693795.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693796.jpg" group-title="beIN Sports HD",beIN SPORTS HD 8
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693796.jpg" group-title="beIN Sports HD",beIN Sports 8 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693796.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693797.jpg" group-title="beIN Sports HD",beIN SPORTS HD 9
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693797.jpg" group-title="beIN Sports HD",beIN Sports 9 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693797.ts
 
 
@@ -137,29 +137,29 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/827.ts
 
 # ===== beIN Sports LOW =====
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693764.png" group-title="beIN Sports LOW",beIN SPORTS LOW 1
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693764.png" group-title="beIN Sports LOW",beIN Sports 1 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693764.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693765.png" group-title="beIN Sports LOW",beIN SPORTS LOW 2
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693765.png" group-title="beIN Sports LOW",beIN Sports 2 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693765.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693766.png" group-title="beIN Sports LOW",beIN SPORTS LOW 3
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693766.png" group-title="beIN Sports LOW",beIN Sports 3 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693766.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693767.png" group-title="beIN Sports LOW",beIN SPORTS LOW 4
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693767.png" group-title="beIN Sports LOW",beIN Sports 4 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693767.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693768.png" group-title="beIN Sports LOW",beIN SPORTS LOW 5
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693768.png" group-title="beIN Sports LOW",beIN Sports 5 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693768.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693769.png" group-title="beIN Sports LOW",beIN SPORTS LOW 6
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693769.png" group-title="beIN Sports LOW",beIN Sports 6 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693769.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693770.png" group-title="beIN Sports LOW",beIN SPORTS LOW 7
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693770.png" group-title="beIN Sports LOW",beIN Sports 7 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693770.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693771.png" group-title="beIN Sports LOW",beIN SPORTS LOW 8
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693771.png" group-title="beIN Sports LOW",beIN Sports 8 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts
 
-#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693772.png" group-title="beIN Sports LOW",beIN SPORTS LOW 9
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693772.png" group-title="beIN Sports LOW",beIN Sports 9 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693772.ts

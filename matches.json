@@ -1,20 +1,69 @@
 [
   {
-    "home": "Real Madrid",
-    "away": "FC Barcelona",
-    "time": "16:50",
+    "home": "Sénégal",
+    "away": "Mozambique",
+    "time": "14:00",
     "channel": "beIN Sports 1 SD"
   },
   {
-    "home": "Manchester City",
-    "away": "Arsenal",
+    "home": "Maroc",
+    "away": "Gabon",
+    "time": "20:00",
+    "channel": "beIN Sports 1 SD"
+  },
+  {
+    "home": "Égypte",
+    "away": "Angola",
     "time": "20:00",
     "channel": "beIN Sports 2 SD"
   },
   {
-    "home": "Bayern Munich",
-    "away": "Borussia Dortmund",
-    "time": "22:00",
+    "home": "Géorgie",
+    "away": "Irlande du Nord",
+    "time": "17:00",
     "channel": "beIN Sports 3 SD"
+  },
+  {
+    "home": "Hongrie",
+    "away": "Ukraine",
+    "time": "19:45",
+    "channel": "beIN Sports 4 SD"
+  },
+  {
+    "home": "Arménie",
+    "away": "Lettonie",
+    "time": "17:00",
+    "channel": "beIN Sports 5 SD"
+  },
+  {
+    "home": "Monténégro",
+    "away": "Chypre",
+    "time": "19:45",
+    "channel": "beIN Sports 6 SD"
+  },
+  {
+    "home": "Italie",
+    "away": "Belgique",
+    "time": "19:45",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "Turquie",
+    "away": "France",
+    "time": "19:45",
+    "channel": "beIN Sports 2 HD"
+  },
+  {
+    "home": "Pologne",
+    "away": "Bosnie-Herzégovine",
+    "time": "19:45",
+    "channel": "beIN Sports 3 HD"
+  },
+  {
+    "home": "Suède",
+    "away": "Roumanie",
+    "time": "19:45",
+    "channel": "beIN Sports 4 HD"
   }
 ]
+

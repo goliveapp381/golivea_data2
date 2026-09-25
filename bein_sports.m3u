@@ -1,99 +1,167 @@
-#EXTM3U
-
-# ===== beIN Sports SD =====
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 1 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 2 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75001
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 3 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75002
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 4 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 5 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75004
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 6 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75005
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 7 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 8 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75001
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 9 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports SD",beIN Sports 10 SD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-
-# ===== beIN Sports HD =====
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 1 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18776
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 2 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18775
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 3 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18774
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 4 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18773
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 5 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 6 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 7 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 8 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 9 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports HD",beIN Sports 10 HD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-
-# ===== beIN Sports FHD =====
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 1 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18776
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 2 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18775
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 3 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18774
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 4 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/18773
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 5 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 6 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 7 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75006
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 8 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 9 FHD
-http://hamza.gentv.to:8080/NunoRicardoSilva_1/kNFJ5epWIR/75000
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/BeIN_Sports_logo_2024.svg/256px-BeIN_Sports_logo_2024.svg.png" group-title="beIN Sports FHD",beIN Sports 10 FHD
-http://tv-275228.ifiesta.net:80/live/TV-14650030923070/116630916768/255499.ts
+[
+  {
+    "name": "beIN SPORTS 4K 1",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693821.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693821.ts"
+  },
+  {
+    "name": "beIN Sports 1 4K H265",
+    "logo": "http://0809-2026.info:8089/logo/chn/26806.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/26806.ts"
+  },
+  {
+    "name": "beIN SPORTS 4K 2",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693822.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693822.ts"
+  },
+  {
+    "name": "beIN SPORTS 4K 3",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693823.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693823.ts"
+  },
+  {
+    "name": "beIN Sports 3 4K H265",
+    "logo": "http://0809-2026.info:8089/logo/chn/26804.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/26804.ts"
+  },
+  {
+    "name": "beIN Sports 4 4K H265",
+    "logo": "http://0809-2026.info:8089/logo/chn/26803.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/26803.ts"
+  },
+  {
+    "name": "beIN SPORTS 4K 5",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693825.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693825.ts"
+  },
+  {
+    "name": "beIN Sports 6 4K H265",
+    "logo": "http://0809-2026.info:8089/logo/chn/26801.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/26801.ts"
+  },
+  {
+    "name": "beIN Sports 7 4K H265",
+    "logo": "http://0809-2026.info:8089/logo/chn/26800.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/26800.ts"
+  },
+  {
+    "name": "beIN Sports 8 4K H265",
+    "logo": "http://0809-2026.info:8089/logo/chn/26799.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/26799.ts"
+  },
+  {
+    "name": "beIN Sports 9 4K H265",
+    "logo": "http://0809-2026.info:8089/logo/chn/26798.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/26798.ts"
+  },
+  {
+    "name": "beIN Sports Extra 1 4K",
+    "logo": "http://0809-2026.info:8089/logo/chn/814.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/814.ts"
+  },
+  {
+    "name": "beIN Sports Extra 2 4K",
+    "logo": "http://0809-2026.info:8089/logo/chn/815.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/815.ts"
+  },
+  {
+    "name": "beIN Sports 1 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54909.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54909.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 1",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693764.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693764.ts"
+  },
+  {
+    "name": "beIN Sports 2 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54910.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54910.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 2",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693765.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693765.ts"
+  },
+  {
+    "name": "beIN Sports 3 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54911.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54911.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 3",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693766.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693766.ts"
+  },
+  {
+    "name": "beIN Sports 4 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54913.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54913.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 4",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693767.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693767.ts"
+  },
+  {
+    "name": "beIN Sports 5 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54914.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54914.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 5",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693768.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693768.ts"
+  },
+  {
+    "name": "beIN Sports 6 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/79815.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/79815.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 6",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693769.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693769.ts"
+  },
+  {
+    "name": "beIN Sports 7 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54912.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54912.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 7",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693770.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693770.ts"
+  },
+  {
+    "name": "beIN Sports 8 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54915.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54915.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 8",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693771.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts"
+  },
+  {
+    "name": "beIN Sports 9 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/54916.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/54916.ts"
+  },
+  {
+    "name": "beIN SPORTS LOW 9",
+    "logo": "http://0809-2026.info:8089/logo/chn/85693772.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85693772.ts"
+  },
+  {
+    "name": "beIN Sports Extra 1 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/826.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/826.ts"
+  },
+  {
+    "name": "beIN Sports Extra 2 SD",
+    "logo": "http://0809-2026.info:8089/logo/chn/827.png",
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/827.ts"
+  }
+]

@@ -1,17 +1,5 @@
 [
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/5/52/Logo_Union_Touarga_Athl%C3%A9tiq_Club.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/FUS_Rabat.png"
-  },
-  {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Defaa_Hassani_El_Jadidi.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/fr/8/87/CODM_Meknes.png"
-  },
-  {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wydad_AC_logo.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Widad_Temara.png"
-  },
-  {
     "homeLogo": "https://flagcdn.com/w160/si.png",
     "awayLogo": "https://flagcdn.com/w160/gb-sct.png"
   },
@@ -58,5 +46,17 @@
   {
     "homeLogo": "https://flagcdn.com/w160/om.png",
     "awayLogo": "https://flagcdn.com/w160/sa.png"
+  },
+  {
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/5/52/Logo_Union_Touarga_Athl%C3%A9tiq_Club.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/FUS_Rabat.png"
+  },
+  {
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Defaa_Hassani_El_Jadidi.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/fr/8/87/CODM_Meknes.png"
+  },
+  {
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wydad_AC_logo.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Widad_Temara.png"
   }
 ]

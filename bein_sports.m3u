@@ -164,9 +164,9 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts
 
 
 
- "name": "Arryadia HD",
-    #EXTINF:-1 tvg-logo": "http://0809-2026.info:8089/logo/chn/85675647.png" group-title= "Arryadia HD",Arryadia HD
-    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675647.ts"
+ 
+ #EXTINF:-1 tvg-logo": "http://0809-2026.info:8089/logo/chn/85675647.png" group-title= "Arryadia HD",Arryadia HD
+ http://0809-2026.info:8089/live/3604284623086/7463647389596/85675647.ts"
 
 
 

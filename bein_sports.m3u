@@ -161,5 +161,17 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693770.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693771.png" group-title="beIN Sports LOW",beIN Sports 8 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts
 
+
+
+
+ "name": "Arryadia HD",
+    #EXTINF:-1 tvg-logo": "http://0809-2026.info:8089/logo/chn/85675647.png" group-title= "Arryadia HD",Arryadia HD
+    "url": "http://0809-2026.info:8089/live/3604284623086/7463647389596/85675647.ts"
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693772.png" group-title="beIN Sports LOW",beIN Sports 9 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693772.ts

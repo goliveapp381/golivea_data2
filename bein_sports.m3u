@@ -161,17 +161,17 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693770.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693771.png" group-title="beIN Sports LOW",beIN Sports 8 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts
 
-
-
-
- 
- #EXTINF:-1 tvg-logo": "http://0809-2026.info:8089/logo/chn/85675647.png" group-title= "Arryadia HD",Arryadia HD
- http://0809-2026.info:8089/live/3604284623086/7463647389596/85675647.ts"
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693772.png" group-title="beIN Sports LOW",beIN Sports 9 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693772.ts
+
+
+# ===== Arabic Sports =====
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85675647.png" group-title="Arabic Sports",Arryadia HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/85675647.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/5002.jpg" group-title="Arabic Sports",ALKASS1
+http://0809-2026.info:8089/live/3604284623086/7463647389596/5002.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/5003.jpg" group-title="Arabic Sports",ALKASS2
+http://0809-2026.info:8089/live/3604284623086/7463647389596/5003.ts

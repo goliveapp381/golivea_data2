@@ -1,69 +1,92 @@
 [
   {
-    "home": "Sénégal",
-    "away": "Mozambique",
+    "home": "إتحاد تواركة",
+    "away": "اتحاد الفتح الرياضي",
+    "time": "17:00",
+    "channel": "Arryadia"
+  },
+  {
+    "home": "الدفاع الحسني الجديدي",
+    "away": "النادي المكناسي",
+    "time": "19:00",
+    "channel": "Arryadia"
+  },
+  {
+    "home": "الوداد الرياضي",
+    "away": "وداد تمارة",
+    "time": "21:00",
+    "channel": "Arryadia"
+  },
+  {
+    "home": "سلوفينيا",
+    "away": "اسكتلندا",
     "time": "14:00",
-    "channel": "beIN Sports 1 SD"
+    "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Maroc",
-    "away": "Gabon",
-    "time": "20:00",
-    "channel": "beIN Sports 3 SD"
-  },
-  {
-    "home": "Égypte",
-    "away": "Angola",
-    "time": "20:00",
-    "channel": "beIN Sports 1 SD"
-  },
-  {
-    "home": "Géorgie",
-    "away": "Irlande du Nord",
+    "home": "آيسلندا",
+    "away": "إستونيا",
     "time": "17:00",
-    "channel": "beIN Sports 3 SD"
+    "channel": "beIN Sports 2 HD"
   },
   {
-    "home": "Hongrie",
-    "away": "Ukraine",
-    "time": "19:45",
-    "channel": "beIN Sports 4 SD"
-  },
-  {
-    "home": "Arménie",
-    "away": "Lettonie",
+    "home": "جزر فارو",
+    "away": "كازاخستان",
     "time": "17:00",
-    "channel": "beIN Sports 5 SD"
+    "channel": "beIN Sports 3 HD"
   },
   {
-    "home": "Monténégro",
-    "away": "Chypre",
-    "time": "19:45",
-    "channel": "beIN Sports 6 SD"
+    "home": "سان مارينو",
+    "away": "فنلندا",
+    "time": "17:00",
+    "channel": "beIN Sports 4 HD"
   },
   {
-    "home": "Italie",
-    "away": "Belgique",
+    "home": "بلغاريا",
+    "away": "لوكسمبورغ",
+    "time": "17:00",
+    "channel": "beIN Sports 5 HD"
+  },
+  {
+    "home": "إنجلترا",
+    "away": "إسبانيا",
     "time": "19:45",
     "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Turquie",
-    "away": "France",
+    "home": "ألبانيا",
+    "away": "بيلاروسيا",
     "time": "19:45",
     "channel": "beIN Sports 2 HD"
   },
   {
-    "home": "Pologne",
-    "away": "Bosnie-Herzégovine",
+    "home": "سلوفاكيا",
+    "away": "مولدوفا",
     "time": "19:45",
     "channel": "beIN Sports 3 HD"
   },
   {
-    "home": "Suède",
-    "away": "Roumanie",
+    "home": "مقدونيا الشمالية",
+    "away": "سويسرا",
     "time": "19:45",
     "channel": "beIN Sports 4 HD"
+  },
+  {
+    "home": "جمهورية التشيك",
+    "away": "كرواتيا",
+    "time": "19:45",
+    "channel": "beIN Sports 5 HD"
+  },
+  {
+    "home": "الكويت",
+    "away": "العراق",
+    "time": "16:55",
+    "channel": "Alkass 1 HD"
+  },
+  {
+    "home": "عمان",
+    "away": "السعودية",
+    "time": "19:00",
+    "channel": "Alkass 1 HD"
   }
 ]
-

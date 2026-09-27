@@ -1,17 +1,5 @@
 [
   {
-    "homeLogo": "https://img.freepik.com/free-vector/barcelona-logo_1017-7678.jpg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/200px-Real_Madrid_CF.svg.png"
-  },
-  {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png",
-    "awayLogo": "https://img.freepik.com/free-vector/barcelona-logo_1017-7678.jpg"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/bh.png",
-    "awayLogo": "https://flagcdn.com/w160/ae.png"
-  },
-  {
     "homeLogo": "https://flagcdn.com/w160/lt.png",
     "awayLogo": "https://flagcdn.com/w160/az.png"
   },
@@ -30,6 +18,14 @@
   {
     "homeLogo": "https://flagcdn.com/w160/no.png",
     "awayLogo": "https://flagcdn.com/w160/pt.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/bh.png",
+    "awayLogo": "https://flagcdn.com/w160/ae.png"
+  },
+  {
+    "homeLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/columbus.png",
+    "awayLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/inter_miami.png"
   },
   {
     "homeLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/tetouan.png",

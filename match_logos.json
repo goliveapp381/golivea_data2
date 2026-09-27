@@ -1,4 +1,42 @@
-{
-  "homeLogo": "https://raw.githubusercontent.com/goliveapp/golivea_data2/main/logos/barcelona.webp",
-  "awayLogo": "https://raw.githubusercontent.com/goliveapp/golivea_data2/main/logos/اسم_الفريق_الآخر.webp"
-}
+[
+  {
+    "homeLogo": "https://raw.githubusercontent.com/goliveapp/golivea_data2/main/logos/barcelona.webp",
+    "awayLogo": "https://flagcdn.com/w160/az.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/rs.png",
+    "awayLogo": "https://flagcdn.com/w160/nl.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/dk.png",
+    "awayLogo": "https://flagcdn.com/w160/gb-wls.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/de.png",
+    "awayLogo": "https://flagcdn.com/w160/gr.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/no.png",
+    "awayLogo": "https://flagcdn.com/w160/pt.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/bh.png",
+    "awayLogo": "https://flagcdn.com/w160/ae.png"
+  },
+  {
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/columbus.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/inter_miami.png"
+  },
+  {
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/mat.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/rsb.png"
+  },
+  {
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/mas.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/rcaz.png"
+  },
+  {
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/kacm.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/husa.png"
+  }
+]

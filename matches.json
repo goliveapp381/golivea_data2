@@ -1,62 +1,14 @@
 [
   {
-    "home": "البحرين",
-    "away": "الإمارات",
-    "time": "18:00",
-    "channel": "beIN Sports 1 HD"
-  },
-  {
-    "home": "كولومبوس كرو",
-    "away": "إنتر ميامي",
-    "time": "23:00",
-    "channel": "Apple TV"
-  },
-  {
-    "home": "Lituanie",
-    "away": "Azerbaïdjan",
-    "time": "13:00",
-    "channel": "beIN Sports 1 HD"
-  },
-  {
-    "home": "Serbie",
-    "away": "Pays-Bas",
-    "time": "16:00",
-    "channel": "beIN Sports 1 SD"
-  },
-  {
-    "home": "Danemark",
-    "away": "Pays de Galles",
-    "time": "16:00",
-    "channel": "beIN Sports 2 SD"
-  },
-  {
-    "home": "Allemagne",
-    "away": "Grèce",
-    "time": "18:45",
-    "channel": "beIN Sports 2 SD"
-  },
-  {
-    "home": "Norvège",
-    "away": "Portugal",
-    "time": "18:45",
-    "channel": "beIN Sports 1 SD"
-  },
-  {
-    "home": "Moghreb Tétouan",
-    "away": "RS Berkane",
-    "time": "16:00",
-    "channel": "Arryadia"
-  },
-  {
-    "home": "MAS",
-    "away": "Renaissance Zemamra",
-    "time": "18:00",
-    "channel": "Arryadia"
-  },
-  {
-    "home": "KACM",
-    "away": "HUSA",
+    "home": "برشلونة",
+    "away": "ريال مدريد",
     "time": "20:00",
-    "channel": "Arryadia"
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "مانشستر سيتي",
+    "away": "برشلونة",
+    "time": "21:00",
+    "channel": "beIN Sports 2 HD"
   }
 ]

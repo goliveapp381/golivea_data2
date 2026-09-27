@@ -29,14 +29,14 @@
   },
   {
     "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tetouan.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/barcelona.png"
+    "awayLogo": ""
   },
   {
     "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/MAS.png",
     "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Zemamra.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/barcelona.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/barcelona.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/KACM.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/HUSA.png"
   }
 ]

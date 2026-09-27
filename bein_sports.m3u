@@ -1,4 +1,4 @@
-#EXTM3U {"name":"AR: ARRIADIA","logo":"https://docdog.top/logo/countries/arab/arriadiatv.png"}
+#EXTM3U
 
 # ===== beIN Sports 4K =====
 
@@ -41,6 +41,7 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/814.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/815.png" group-title="beIN Sports Extra",beIN Sports Extra 2 4K
 http://0809-2026.info:8089/live/3604284623086/7463647389596/815.ts
 
+
 # ===== beIN Sports FHD =====
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693808.jpg" group-title="beIN Sports FHD",beIN Sports 1 FHD
@@ -66,6 +67,7 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693814.ts
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693815.jpg" group-title="beIN Sports FHD",beIN Sports 8 FHD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693815.ts
+
 
 # ===== beIN Sports HD =====
 
@@ -95,6 +97,7 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693796.ts
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693797.jpg" group-title="beIN Sports HD",beIN Sports 9 HD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693797.ts
+
 
 # ===== beIN Sports SD =====
 
@@ -131,6 +134,7 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/826.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/827.png" group-title="beIN Sports Extra",beIN Sports Extra 2 SD
 http://0809-2026.info:8089/live/3604284623086/7463647389596/827.ts
 
+
 # ===== beIN Sports LOW =====
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693764.png" group-title="beIN Sports LOW",beIN Sports 1 LOW
@@ -160,9 +164,10 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693772.png" group-title="beIN Sports LOW",beIN Sports 9 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693772.ts
 
+
 # ===== Arabic Sports =====
 
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/arab/arriadiatv.png" group-title="Arabic Sports",Arryadia HD
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85675647.png" group-title="Arabic Sports",Arryadia HD
 http://neosfpoo.top:8080/8831762457758409/1d850f738f6a/52848
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/5002.jpg" group-title="Arabic Sports",ALKASS1

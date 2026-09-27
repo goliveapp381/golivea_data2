@@ -1,10 +1,42 @@
 [
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/4/47/FC_Barcelona_%28crest%29.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+    "homeLogo": "https://flagcdn.com/w160/lt.png",
+    "awayLogo": "https://flagcdn.com/w160/az.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/5/56/Real_Madrid_CF.svg"
+    "homeLogo": "https://flagcdn.com/w160/rs.png",
+    "awayLogo": "https://flagcdn.com/w160/nl.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/dk.png",
+    "awayLogo": "https://flagcdn.com/w160/gb-wls.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/de.png",
+    "awayLogo": "https://flagcdn.com/w160/gr.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/no.png",
+    "awayLogo": "https://flagcdn.com/w160/pt.png"
+  },
+  {
+    "homeLogo": "https://flagcdn.com/w160/bh.png",
+    "awayLogo": "https://flagcdn.com/w160/ae.png"
+  },
+  {
+    "homeLogo": "https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/en/5/58/Columbus_Crew_logo_2021.svg&output=png",
+    "awayLogo": "https://images.weserv.nl/?url=https://upload.wikimedia.org/wikipedia/en/5/5c/Inter_Miami_CF_logo.svg&output=png"
+  },
+  {
+    "homeLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/tetouan.png",
+    "awayLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/berkane.png"
+  },
+  {
+    "homeLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/mas.png",
+    "awayLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/zemamra.png"
+  },
+  {
+    "homeLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/kacm.png",
+    "awayLogo": "https://raw.githubusercontent.com/fawaz-q/moroccan-league-logos/main/husa.png"
   }
 ]

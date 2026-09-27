@@ -24,19 +24,19 @@
     "awayLogo": "https://flagcdn.com/w160/ae.png"
   },
   {
-    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/columbus.png",
-    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/inter_miami.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/columbus.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/inter_miami.png"
   },
   {
-    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/mat.png",
-    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/rsb.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/mat.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/rsb.png"
   },
   {
-    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/mas.png",
-    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/rcaz.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/mas.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/rcaz.png"
   },
   {
-    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/kacm.png",
-    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/husa.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/kacm.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/fawaz-q/moroccan-league-logos@main/husa.png"
   }
 ]

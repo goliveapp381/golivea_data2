@@ -1,62 +1,34 @@
 [
   {
-    "homeLogo": "https://flagcdn.com/w160/si.png",
-    "awayLogo": "https://flagcdn.com/w160/gb-sct.png"
+    "homeLogo": "https://flagcdn.com/w160/lt.png",
+    "awayLogo": "https://flagcdn.com/w160/az.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/is.png",
-    "awayLogo": "https://flagcdn.com/w160/ee.png"
+    "homeLogo": "https://flagcdn.com/w160/rs.png",
+    "awayLogo": "https://flagcdn.com/w160/nl.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/fo.png",
-    "awayLogo": "https://flagcdn.com/w160/kz.png"
+    "homeLogo": "https://flagcdn.com/w160/dk.png",
+    "awayLogo": "https://flagcdn.com/w160/gb-wls.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/sm.png",
-    "awayLogo": "https://flagcdn.com/w160/fi.png"
+    "homeLogo": "https://flagcdn.com/w160/de.png",
+    "awayLogo": "https://flagcdn.com/w160/gr.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/bg.png",
-    "awayLogo": "https://flagcdn.com/w160/lu.png"
+    "homeLogo": "https://flagcdn.com/w160/no.png",
+    "awayLogo": "https://flagcdn.com/w160/pt.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/gb-eng.png",
-    "awayLogo": "https://flagcdn.com/w160/es.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/9/90/MAT_Tetouan.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/RS_Berkane.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/al.png",
-    "awayLogo": "https://flagcdn.com/w160/by.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/2/20/MAS_Fes.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/7/7d/CRZ_Zemamra.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/sk.png",
-    "awayLogo": "https://flagcdn.com/w160/md.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/mk.png",
-    "awayLogo": "https://flagcdn.com/w160/ch.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/cz.png",
-    "awayLogo": "https://flagcdn.com/w160/hr.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/kw.png",
-    "awayLogo": "https://flagcdn.com/w160/iq.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/om.png",
-    "awayLogo": "https://flagcdn.com/w160/sa.png"
-  },
-  {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/5/52/Logo_Union_Touarga_Athl%C3%A9tiq_Club.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/FUS_Rabat.png"
-  },
-  {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Defaa_Hassani_El_Jadidi.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/fr/8/87/CODM_Meknes.png"
-  },
-  {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/0/02/Wydad_AC_logo.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Widad_Temara.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/1/12/Kawkab_Marrakech.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Hassania_Agadir.png"
   }
 ]

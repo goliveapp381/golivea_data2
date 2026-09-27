@@ -24,19 +24,19 @@
     "awayLogo": "https://flagcdn.com/w160/ae.png"
   },
   {
-    "homeLogo": "https://images.weserv.nl/?url=ssl.gstatic.com/onebox/media/sports/logos/93xQ1c8dJ_oI9_pPZkCq9A_96x96.png",
-    "awayLogo": "https://images.weserv.nl/?url=ssl.gstatic.com/onebox/media/sports/logos/3v09XInaA9_vS2pEaM9uHA_96x96.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Columbus_Crew_logo_2021.svg/300px-Columbus_Crew_logo_2021.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/300px-Inter_Miami_CF_logo.svg.png"
   },
   {
-    "homeLogo": "https://images.weserv.nl/?url=ssl.gstatic.com/onebox/media/sports/logos/wE1K7zL_iR-I2bM60K2a0A_96x96.png",
-    "awayLogo": "https://images.weserv.nl/?url=ssl.gstatic.com/onebox/media/sports/logos/4kF4-5k12i9iWfP_36E5xA_96x96.png"
-  },
- {
-    "homeLogo": "https://flagcdn.com/w160/dk.png",
-    "awayLogo": "https://flagcdn.com/w160/gb-wls.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/MAT_Logo.png/250px-MAT_Logo.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/RSB_Logo.png/250px-RSB_Logo.png"
   },
   {
-    "homeLogo": "https://images.weserv.nl/?url=ssl.gstatic.com/onebox/media/sports/logos/d5uO5144fI1Z581R13663Q_96x96.png",
-    "awayLogo": "https://images.weserv.nl/?url=ssl.gstatic.com/onebox/media/sports/logos/2P2G69O11a5S29-6G52_2A_96x96.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/90/MAS_F%C3%A8s_Logo.png/250px-MAS_F%C3%A8s_Logo.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RCAZ_Logo.png/250px-RCAZ_Logo.png"
+  },
+  {
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/KACM_Marrakech.png/250px-KACM_Marrakech.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_HUSA_Agadir.png/250px-Logo_HUSA_Agadir.png"
   }
 ]

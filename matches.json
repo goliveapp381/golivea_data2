@@ -1,92 +1,50 @@
 [
   {
-    "home": "سلوفينيا",
-    "away": "اسكتلندا",
-    "time": "14:00",
+    "home": "Lituanie",
+    "away": "Azerbaïdjan",
+    "time": "13:00",
     "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "آيسلندا",
-    "away": "إستونيا",
-    "time": "17:00",
+    "home": "Serbie",
+    "away": "Pays-Bas",
+    "time": "16:00",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "Danemark",
+    "away": "Pays de Galles",
+    "time": "16:00",
     "channel": "beIN Sports 2 HD"
   },
   {
-    "home": "جزر فارو",
-    "away": "كازاخستان",
-    "time": "17:00",
-    "channel": "beIN Sports 3 HD"
-  },
-  {
-    "home": "سان مارينو",
-    "away": "فنلندا",
-    "time": "17:00",
-    "channel": "beIN Sports 4 HD"
-  },
-  {
-    "home": "بلغاريا",
-    "away": "لوكسمبورغ",
-    "time": "17:00",
-    "channel": "beIN Sports 5 HD"
-  },
-  {
-    "home": "إنجلترا",
-    "away": "إسبانيا",
+    "home": "Allemagne",
+    "away": "Grèce",
     "time": "18:45",
     "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "ألبانيا",
-    "away": "بيلاروسيا",
-    "time": "19:45",
+    "home": "Norvège",
+    "away": "Portugal",
+    "time": "18:45",
     "channel": "beIN Sports 2 HD"
   },
   {
-    "home": "سلوفاكيا",
-    "away": "مولدوفا",
-    "time": "19:45",
-    "channel": "beIN Sports 3 HD"
-  },
-  {
-    "home": "مقدونيا الشمالية",
-    "away": "سويسرا",
-    "time": "19:45",
-    "channel": "beIN Sports 4 HD"
-  },
-  {
-    "home": "جمهورية التشيك",
-    "away": "كرواتيا",
-    "time": "19:45",
-    "channel": "beIN Sports 2 HD"
-  },
-  {
-    "home": "الكويت",
-    "away": "العراق",
-    "time": "16:55",
-    "channel": "AlKASS1"
-  },
-  {
-    "home": "عمان",
-    "away": "السعودية",
-    "time": "19:00",
-    "channel": "AlkASS1 "
-  },
-  {
-    "home": "إتحاد تواركة",
-    "away": "اتحاد الفتح الرياضي",
-    "time": "17:00",
+    "home": "Moghreb Tétouan",
+    "away": "RS Berkane",
+    "time": "16:00",
     "channel": "Arryadia"
   },
   {
-    "home": "الدفاع الحسني الجديدي",
-    "away": "النادي المكناسي",
-    "time": "19:00",
+    "home": "MAS",
+    "away": "Renaissance Zemamra",
+    "time": "18:00",
     "channel": "Arryadia"
   },
   {
-    "home": "الوداد الرياضي",
-    "away": "وداد تمارة",
-    "time": "21:00",
+    "home": "KACM",
+    "away": "HUSA",
+    "time": "20:00",
     "channel": "Arryadia"
   }
 ]

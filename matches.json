@@ -1,17 +1,5 @@
 [
   {
-    "home": "البحرين",
-    "away": "الإمارات",
-    "time": "18:00",
-    "channel": "beIN Sports 1 HD"
-  },
-  {
-    "home": "كولومبوس كرو",
-    "away": "إنتر ميامي",
-    "time": "23:00",
-    "channel": "Apple TV"
-  },
-  {
     "home": "Lituanie",
     "away": "Azerbaïdjan",
     "time": "13:00",
@@ -40,6 +28,18 @@
     "away": "Portugal",
     "time": "18:45",
     "channel": "beIN Sports 1 SD"
+  },
+  {
+    "home": "البحرين",
+    "away": "الإمارات",
+    "time": "18:00",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "كولومبوس كرو",
+    "away": "إنتر ميامي",
+    "time": "23:00",
+    "channel": "Apple TV"
   },
   {
     "home": "Moghreb Tétouan",

@@ -1,6 +1,6 @@
 [
   {
-    "homeLogo": "https://raw.githubusercontent.com/goliveapp/golivea_data2/main/logos/barcelona.png?v=1",
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/barcelona.png",
     "awayLogo": "https://flagcdn.com/w160/az.png"
   },
   {
@@ -12,4 +12,3 @@
     "awayLogo": "https://flagcdn.com/w160/gb-wls.png"
   }
 ]
-

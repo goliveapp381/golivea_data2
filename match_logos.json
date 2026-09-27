@@ -1,6 +1,10 @@
 [
   {
-    "homeLogo": "https://flagcdn.com/w160/es.png",
-    "awayLogo": "https://flagcdn.com/w160/fr.png"
+    "homeLogo": "https://img.freepik.com/free-vector/barcelona-logo_1017-7678.jpg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.png"
+  },
+  {
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.png"
   }
 ]

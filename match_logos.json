@@ -1,10 +1,10 @@
 [
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/160px-FC_Barcelona_%28crest%29.svg.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/160px-Real_Madrid_CF.svg.png"
+    "homeLogo": "https://img.freepik.com/free-vector/barcelona-logo_1017-7678.jpg",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/160px-Manchester_City_FC_badge.svg.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/160px-FC_Barcelona_%28crest%29.svg.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/sco/5/56/Real_Madrid_CF.png"
   }
 ]

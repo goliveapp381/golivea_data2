@@ -24,19 +24,19 @@
     "awayLogo": "https://flagcdn.com/w160/ae.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Columbus_Crew_logo_2021.svg/300px-Columbus_Crew_logo_2021.svg.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/300px-Inter_Miami_CF_logo.svg.png"
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/columbus.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/inter_miami.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/MAT_Logo.png/250px-MAT_Logo.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/RSB_Logo.png/250px-RSB_Logo.png"
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/mat.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/rsb.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/90/MAS_F%C3%A8s_Logo.png/250px-MAS_F%C3%A8s_Logo.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/RCAZ_Logo.png/250px-RCAZ_Logo.png"
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/mas.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/rcaz.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b5/KACM_Marrakech.png/250px-KACM_Marrakech.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4b/Logo_HUSA_Agadir.png/250px-Logo_HUSA_Agadir.png"
+    "homeLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/kacm.png",
+    "awayLogo": "https://cdn.statically.io/gh/fawaz-q/moroccan-league-logos/main/husa.png"
   }
 ]

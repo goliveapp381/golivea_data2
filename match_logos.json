@@ -1,6 +1,5 @@
-[
-  {
-    "homeLogo": "https://raw.githubusercontent.com/goliveapp/golivea_data2/main/logos/barcelona.jpg",
-    "awayLogo": "https://flagcdn.com/w160/az.png"
-  }
-]
+{
+  "homeLogo": "https://raw.githubusercontent.com/goliveapp/golivea_data2/main/logos/barcelona.webp",
+  "awayLogo": "https://raw.githubusercontent.com/goliveapp/golivea_data2/main/logos/اسم_الفريق_الآخر.webp"
+}
+

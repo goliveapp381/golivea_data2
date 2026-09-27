@@ -1,5 +1,13 @@
 [
   {
+    "homeLogo": "https://flagcdn.com/w160/bh.png",
+    "awayLogo": "https://flagcdn.com/w160/ae.png"
+  },
+  {
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Columbus_Crew_logo_2021.svg/160px-Columbus_Crew_logo_2021.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/160px-Inter_Miami_CF_logo.svg.png"
+  },
+  {
     "homeLogo": "https://flagcdn.com/w160/lt.png",
     "awayLogo": "https://flagcdn.com/w160/az.png"
   },
@@ -20,15 +28,15 @@
     "awayLogo": "https://flagcdn.com/w160/pt.png"
   },
   {
-    "homeLogo": "https://i.ibb.co/VMy4SCh/MAT.png",
-    "awayLogo": "https://i.ibb.co/L5hY8mG/RSB.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MAT_Tetouan.png/160px-MAT_Tetouan.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/RS_Berkane.png/160px-RS_Berkane.png"
   },
   {
-    "homeLogo": "https://i.ibb.co/2N4Xy1b/MAS.png",
-    "awayLogo": "https://i.ibb.co/G3XJ0Vp/RCAZ.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MAS_Fes.png/160px-MAS_Fes.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/CRZ_Zemamra.png/160px-CRZ_Zemamra.png"
   },
   {
-    "homeLogo": "https://i.ibb.co/q9k8Z6y/KACM.png",
-    "awayLogo": "https://i.ibb.co/f4mHkWz/HUSA.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kawkab_Marrakech.png/160px-Kawkab_Marrakech.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hassania_Agadir.png/160px-Hassania_Agadir.png"
   }
 ]

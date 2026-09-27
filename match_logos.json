@@ -1,42 +1,10 @@
 [
   {
-    "homeLogo": "https://flagcdn.com/w160/bh.png",
-    "awayLogo": "https://flagcdn.com/w160/ae.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/160px-FC_Barcelona_%28crest%29.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/160px-Real_Madrid_CF.svg.png"
   },
   {
-    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/columbus.png",
-    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/inter_miami.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/lt.png",
-    "awayLogo": "https://flagcdn.com/w160/az.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/rs.png",
-    "awayLogo": "https://flagcdn.com/w160/nl.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/dk.png",
-    "awayLogo": "https://flagcdn.com/w160/gb-wls.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/de.png",
-    "awayLogo": "https://flagcdn.com/w160/gr.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/no.png",
-    "awayLogo": "https://flagcdn.com/w160/pt.png"
-  },
-  {
-    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/mat.png",
-    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/rsb.png"
-  },
-  {
-    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/mas.png",
-    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/rcaz.png"
-  },
-  {
-    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/kacm.png",
-    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/husa.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/160px-Manchester_City_FC_badge.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/160px-FC_Barcelona_%28crest%29.svg.png"
   }
 ]

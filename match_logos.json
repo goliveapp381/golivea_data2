@@ -32,6 +32,10 @@
     "awayLogo": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg&output=png"
   },
   {
+    "homeLogo": "https://flagcdn.com/w160/rs.png",
+    "awayLogo": "https://flagcdn.com/w160/nl.png"
+  },
+  {
     "homeLogo": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg&output=png",
     "awayLogo": "https://images.weserv.nl/?url=upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg&output=png"
   },

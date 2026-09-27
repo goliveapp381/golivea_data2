@@ -4,8 +4,8 @@
     "awayLogo": "https://flagcdn.com/w160/ae.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Columbus_Crew_logo_2021.svg/160px-Columbus_Crew_logo_2021.svg.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Inter_Miami_CF_logo.svg/160px-Inter_Miami_CF_logo.svg.png"
+    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/columbus.png",
+    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/inter_miami.png"
   },
   {
     "homeLogo": "https://flagcdn.com/w160/lt.png",
@@ -28,15 +28,15 @@
     "awayLogo": "https://flagcdn.com/w160/pt.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MAT_Tetouan.png/160px-MAT_Tetouan.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/RS_Berkane.png/160px-RS_Berkane.png"
+    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/mat.png",
+    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/rsb.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/MAS_Fes.png/160px-MAS_Fes.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/CRZ_Zemamra.png/160px-CRZ_Zemamra.png"
+    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/mas.png",
+    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/rcaz.png"
   },
   {
-    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kawkab_Marrakech.png/160px-Kawkab_Marrakech.png",
-    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hassania_Agadir.png/160px-Hassania_Agadir.png"
+    "homeLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/kacm.png",
+    "awayLogo": "https://raw.githubusercontent.com/votre_utilisateur/votre_projet/main/logos/husa.png"
   }
 ]

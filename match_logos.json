@@ -1,42 +1,38 @@
 [
   {
-    "homeLogo": "https://flagcdn.com/w160/lt.png",
-    "awayLogo": "https://flagcdn.com/w160/az.png"
+    "homeLogo": "https://flagcdn.com/w160/ge.png",
+    "awayLogo": "https://flagcdn.com/w160/ua.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/rs.png",
-    "awayLogo": "https://flagcdn.com/w160/nl.png"
+    "homeLogo": "https://flagcdn.com/w160/gb-nir.png",
+    "awayLogo": "https://flagcdn.com/w160/hu.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/dk.png",
-    "awayLogo": "https://flagcdn.com/w160/gb-wls.png"
+    "homeLogo": "https://flagcdn.com/w160/am.png",
+    "awayLogo": "https://flagcdn.com/w160/me.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/de.png",
-    "awayLogo": "https://flagcdn.com/w160/gr.png"
+    "homeLogo": "https://flagcdn.com/w160/lv.png",
+    "awayLogo": "https://flagcdn.com/w160/cy.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/no.png",
-    "awayLogo": "https://flagcdn.com/w160/pt.png"
+    "homeLogo": "https://flagcdn.com/w160/be.png",
+    "awayLogo": "https://flagcdn.com/w160/fr.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/bh.png",
-    "awayLogo": "https://flagcdn.com/w160/ae.png"
+    "homeLogo": "https://flagcdn.com/w160/tr.png",
+    "awayLogo": "https://flagcdn.com/w160/it.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Columbus_Crew.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Inter_Miami.png"
+    "homeLogo": "https://flagcdn.com/w160/ro.png",
+    "awayLogo": "https://flagcdn.com/w160/ba.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tetouan.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/RS Berkane.png"
+    "homeLogo": "https://flagcdn.com/w160/se.png",
+    "awayLogo": "https://flagcdn.com/w160/pl.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/MAS.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Zemamra.png"
-  },
-  {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/KACM.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/HUSA.png"
+    "homeLogo": "https://flagcdn.com/w160/zw.png",
+    "awayLogo": "https://flagcdn.com/w160/cd.png"
   }
 ]

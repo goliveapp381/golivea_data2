@@ -40,15 +40,15 @@
     "awayLogo": "https://flagcdn.com/w160/sk.png"
   },
   {
-    "homeLogo": "https://gollivetv.com/logos/FUS_Rabat.png",
-    "awayLogo": "https://gollivetv.com/logos/amal tiznit.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/FUS_Rabat.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/amal%20tiznit.png"
   },
   {
-    "homeLogo": "https://gollivetv.com/logos/tmara.png",
-    "awayLogo": "https://gollivetv.com/logos/Touarga.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tmara.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Touarga.png"
   },
   {
-    "homeLogo": "https://gollivetv.com/logos/tanger.png",
-    "awayLogo": "https://gollivetv.com/logos/tetouan.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tanger.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tetouan.png"
   }
 ]

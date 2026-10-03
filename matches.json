@@ -3,49 +3,49 @@
     "home": "Finlande",
     "away": "Albanie",
     "time": "13:00",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 4 SD"
   },
   {
     "home": "Biélorussie",
     "away": "Saint-Marin",
     "time": "16:00",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 4 SD"
   },
   {
     "home": "Croatie",
     "away": "Angleterre",
     "time": "16:00",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 1 SD"
   },
   {
     "home": "Espagne",
     "away": "Tchéquie",
     "time": "18:45",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 1 SD"
   },
   {
     "home": "Estonie",
     "away": "Luxembourg",
     "time": "16:00",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 3 SD"
   },
   {
     "home": "Islande",
     "away": "Bulgarie",
     "time": "16:00",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 2 SD"
   },
   {
     "home": "Macédoine du Nord",
     "away": "Écosse",
     "time": "18:45",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 3 SD"
   },
   {
     "home": "Suisse",
     "away": "Slovénie",
     "time": "18:45",
-    "channel": "beIN Sports SD"
+    "channel": "beIN Sports 2 SD"
   },
   {
     "home": "Hassania Agadir",
@@ -57,18 +57,18 @@
     "home": "CODM Meknès",
     "away": "Kawkab Marrakech",
     "time": "18:00",
-    "channel": "Arryadia SD"
+    "channel": "Arryadia HD"
   },
   {
     "home": "Difaâ El Jadida",
     "away": "Wydad AC",
     "time": "18:00",
-    "channel": "Arryadia SD"
+    "channel": "Arryadia HD"
   },
   {
     "home": "Raja CA",
     "away": "Renaissance Zemamra",
     "time": "20:00",
-    "channel": "Arryadia SD"
+    "channel": "Arryadia HD"
   }
 ]

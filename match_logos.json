@@ -1,54 +1,50 @@
 [
   {
-    "homeLogo": "https://flagcdn.com/w160/kz.png",
-    "awayLogo": "https://flagcdn.com/w160/md.png"
+    "homeLogo": "https://flagcdn.com/w160/fi.png",
+    "awayLogo": "https://flagcdn.com/w160/al.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/lv.png",
-    "awayLogo": "https://flagcdn.com/w160/me.png"
+    "homeLogo": "https://flagcdn.com/w160/by.png",
+    "awayLogo": "https://flagcdn.com/w160/sm.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/cy.png",
-    "awayLogo": "https://flagcdn.com/w160/am.png"
+    "homeLogo": "https://flagcdn.com/w160/hr.png",
+    "awayLogo": "https://flagcdn.com/w160/gb-eng.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/fr.png",
-    "awayLogo": "https://flagcdn.com/w160/it.png"
+    "homeLogo": "https://flagcdn.com/w160/es.png",
+    "awayLogo": "https://flagcdn.com/w160/cz.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/be.png",
-    "awayLogo": "https://flagcdn.com/w160/tr.png"
+    "homeLogo": "https://flagcdn.com/w160/ee.png",
+    "awayLogo": "https://flagcdn.com/w160/lu.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/ua.png",
-    "awayLogo": "https://flagcdn.com/w160/gb-nir.png"
+    "homeLogo": "https://flagcdn.com/w160/is.png",
+    "awayLogo": "https://flagcdn.com/w160/bg.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/hu.png",
-    "awayLogo": "https://flagcdn.com/w160/ge.png"
+    "homeLogo": "https://flagcdn.com/w160/mk.png",
+    "awayLogo": "https://flagcdn.com/w160/gb-sct.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/pl.png",
-    "awayLogo": "https://flagcdn.com/w160/ro.png"
+    "homeLogo": "https://flagcdn.com/w160/ch.png",
+    "awayLogo": "https://flagcdn.com/w160/si.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/ba.png",
-    "awayLogo": "https://flagcdn.com/w160/se.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/HUSA.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/MAS.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/fo.png",
-    "awayLogo": "https://flagcdn.com/w160/sk.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/codm.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/KACM.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/FUS_Rabat.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/amal tiznit.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/dhj.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/wac.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tmara.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Touarga.png"
-  },
-  {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tanger.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tetouan.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/raja.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Zemamra.png"
   }
 ]

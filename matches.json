@@ -1,74 +1,50 @@
 [
   {
-    "home": "Finlande",
-    "away": "Albanie",
-    "time": "13:00",
-    "channel": "beIN Sports 4 SD"
+    "home": "Lituanie",
+    "away": "Azerbaïdjan",
+    "time": "14:00",
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Biélorussie",
-    "away": "Saint-Marin",
+    "home": "Autriche",
+    "away": "Kosovo",
     "time": "16:00",
-    "channel": "beIN Sports 4 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Croatie",
-    "away": "Angleterre",
+    "home": "Andorre",
+    "away": "Malte",
     "time": "16:00",
-    "channel": "beIN Sports 1 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Espagne",
-    "away": "Tchéquie",
+    "home": "Norvège",
+    "away": "Portugal",
     "time": "18:45",
-    "channel": "beIN Sports 1 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Estonie",
-    "away": "Luxembourg",
-    "time": "16:00",
-    "channel": "beIN Sports 3 SD"
-  },
-  {
-    "home": "Islande",
-    "away": "Bulgarie",
-    "time": "16:00",
-    "channel": "beIN Sports 2 SD"
-  },
-  {
-    "home": "Macédoine du Nord",
-    "away": "Écosse",
+    "home": "Serbie",
+    "away": "Pays-Bas",
     "time": "18:45",
-    "channel": "beIN Sports 3 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Suisse",
-    "away": "Slovénie",
+    "home": "Allemagne",
+    "away": "Grèce",
     "time": "18:45",
-    "channel": "beIN Sports 2 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Hassania Agadir",
-    "away": "MAS Fès",
-    "time": "16:00",
-    "channel": "Arryadia HD"
+    "home": "Danemark",
+    "away": "Pays de Galles",
+    "time": "18:45",
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "CODM Meknès",
-    "away": "Kawkab Marrakech",
-    "time": "18:00",
-    "channel": "Arryadia HD"
-  },
-  {
-    "home": "Difaâ El Jadida",
-    "away": "Wydad AC",
-    "time": "18:00",
-    "channel": "Arryadia HD"
-  },
-  {
-    "home": "Raja CA",
-    "away": "Renaissance Zemamra",
-    "time": "20:00",
-    "channel": "Arryadia HD"
+    "home": "Irlande",
+    "away": "Israël",
+    "time": "18:45",
+    "channel": "beIN Sports SD"
   }
 ]

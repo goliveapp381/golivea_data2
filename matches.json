@@ -1,50 +1,74 @@
 [
   {
-    "home": "Chypre",
-    "away": "Lettonie",
-    "time": "16:00",
-    "channel": "beIN Sports 2 SD"
+    "home": "Kazakhstan",
+    "away": "Îles Féroé",
+    "time": "14:00",
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "France",
-    "away": "Belgique",
+    "home": "Croatie",
+    "away": "Espagne",
     "time": "18:45",
-    "channel": "beIN Sports 1 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Italie",
-    "away": "Turquie",
+    "home": "Angleterre",
+    "away": "Tchéquie",
     "time": "18:45",
-    "channel": "beIN Sports 2 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Ukraine",
-    "away": "Hongrie",
+    "home": "Suisse",
+    "away": "Macédoine du Nord",
     "time": "18:45",
-    "channel": "beIN Sports 6 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Irlande du Nord",
-    "away": "Géorgie",
+    "home": "Écosse",
+    "away": "Slovénie",
     "time": "18:45",
-    "channel": "beIN Sports 7 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Roumanie",
-    "away": "Suède",
+    "home": "Albanie",
+    "away": "Saint-Marin",
     "time": "18:45",
-    "channel": "beIN Sports 3 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Bosnie-Herzégovine",
-    "away": "Pologne",
+    "home": "Biélorussie",
+    "away": "Finlande",
     "time": "18:45",
-    "channel": "beIN Sports 4 SD"
+    "channel": "beIN Sports SD"
   },
   {
-    "home": "Monténégro",
-    "away": "Arménie",
+    "home": "Luxembourg",
+    "away": "Bulgarie",
     "time": "18:45",
-    "channel": "beIN Sports 5 SD"
+    "channel": "beIN Sports SD"
+  },
+  {
+    "home": "Estonie",
+    "away": "Islande",
+    "time": "18:45",
+    "channel": "beIN Sports SD"
+  },
+  {
+    "home": "Moldavie",
+    "away": "Slovaquie",
+    "time": "18:45",
+    "channel": "beIN Sports SD"
+  },
+  {
+    "home": "Angola",
+    "away": "Malawi",
+    "time": "19:00",
+    "channel": "beIN Sports SD"
+  },
+  {
+    "home": "Émirats Arabes Unis",
+    "away": "Arabie Saoudite",
+    "time": "18:00",
+    "channel": "beIN Sports SD"
   }
 ]

@@ -1,50 +1,18 @@
 [
   {
-    "homeLogo": "https://flagcdn.com/w160/kz.png",
-    "awayLogo": "https://flagcdn.com/w160/fo.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Touarga.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/RS Berkane.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/hr.png",
-    "awayLogo": "https://flagcdn.com/w160/es.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/asfar.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tmara.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/gb-eng.png",
-    "awayLogo": "https://flagcdn.com/w160/cz.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Zemamra.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/HUSA.png"
   },
   {
-    "homeLogo": "https://flagcdn.com/w160/ch.png",
-    "awayLogo": "https://flagcdn.com/w160/mk.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/gb-sct.png",
-    "awayLogo": "https://flagcdn.com/w160/si.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/al.png",
-    "awayLogo": "https://flagcdn.com/w160/sm.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/by.png",
-    "awayLogo": "https://flagcdn.com/w160/fi.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/lu.png",
-    "awayLogo": "https://flagcdn.com/w160/bg.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/ee.png",
-    "awayLogo": "https://flagcdn.com/w160/is.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/md.png",
-    "awayLogo": "https://flagcdn.com/w160/sk.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/ao.png",
-    "awayLogo": "https://flagcdn.com/w160/mw.png"
-  },
-  {
-    "homeLogo": "https://flagcdn.com/w160/ae.png",
-    "awayLogo": "https://flagcdn.com/w160/sa.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/MAS.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/raja.png"
   }
 ]

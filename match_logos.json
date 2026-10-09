@@ -1,18 +1,22 @@
 [
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Touarga.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/RS Berkane.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tetouan.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/FUS_Rabat.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/asfar.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/tmara.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/M%C3%A1laga_CF.svg/1200px-M%C3%A1laga_CF.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Rcd_espanyol_logo.svg/1200px-Rcd_espanyol_logo.svg.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/Zemamra.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/HUSA.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Al-Fateh_SC_logo.svg/1200px-Al-Fateh_SC_logo.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/MAS.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logos/raja.png"
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Al_Nassr_FC.svg/1200px-Al_Nassr_FC.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Diriyah_Club_logo.svg/1200px-Diriyah_Club_logo.svg.png"
+  },
+  {
+    "homeLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "awayLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png"
   }
 ]

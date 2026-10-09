@@ -1,26 +1,32 @@
 [
   {
-    "home": "Union Touarga",
-    "away": "RS Berkane",
-    "time": "16:00",
-    "channel": "Arryadia HD"
-  },
-  {
-    "home": "AS FAR",
-    "away": "Wydad Témara",
-    "time": "18:00",
-    "channel": "Arryadia HD"
-  },
-  {
-    "home": "Renaissance Zemamra",
-    "away": "Hassania Agadir",
-    "time": "18:00",
-    "channel": "Arryadia HD"
-  },
-  {
-    "home": "MAS Fès",
-    "away": "Raja CA",
+    "home": "Moghreb Tétouan",
+    "away": "FUS Rabat",
     "time": "20:00",
-    "channel": "Arryadia HD"
+    "channel": "Arryadia SD"
+  },
+  {
+    "home": "Málaga",
+    "away": "Espanyol",
+    "time": "19:00",
+    "channel": "beIN Sports SD"
+  },
+  {
+    "home": "Al Fateh",
+    "away": "Al Ahli",
+    "time": "14:55",
+    "channel": "beIN Sports SD"
+  },
+  {
+    "home": "Al Nassr",
+    "away": "Al Diriyah",
+    "time": "18:00",
+    "channel": "beIN Sports SD"
+  },
+  {
+    "home": "Borussia Dortmund",
+    "away": "Werder Bremen",
+    "time": "18:30",
+    "channel": "beIN Sports SD"
   }
 ]

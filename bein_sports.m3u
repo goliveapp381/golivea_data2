@@ -164,6 +164,25 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693772.png" group-title="beIN Sports LOW",beIN Sports 9 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693772.ts
 
+# ===== SSC SPORTS =====
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/ssc1.png" group-title="SSC SPORTS",SSC 1 HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/6823.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/ssc2.png" group-title="SSC SPORTS",SSC 2 HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/6824.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/ssc3.png" group-title="SSC SPORTS",SSC 3 HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/6825.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/sscextra1.png" group-title="SSC SPORTS",SSC EXTRA 1 HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/6826.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/sscextra2.png" group-title="SSC SPORTS",SSC EXTRA 2 HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/6824.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/sscextra3.png" group-title="SSC SPORTS",SSC EXTRA 3 HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/6825.ts
 
 # ===== Arabic Sports =====
 
@@ -175,3 +194,4 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/5002.ts
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/5003.jpg" group-title="Arabic Sports",ALKASS2
 http://0809-2026.info:8089/live/3604284623086/7463647389596/5003.ts
+

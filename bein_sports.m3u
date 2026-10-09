@@ -164,6 +164,35 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85693771.ts
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85693772.png" group-title="beIN Sports LOW",beIN Sports 9 LOW
 http://0809-2026.info:8089/live/3604284623086/7463647389596/85693772.ts
 
+# ===== THAMANYA SPORTS =====
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85692686.jpg" group-title="THAMANYA SPORTS",Thamanya 1 Sport HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/85692686.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85692683.jpg" group-title="THAMANYA SPORTS",Thamanya 1 Sport 4K
+http://0809-2026.info:8089/live/3604284623086/7463647389596/85692683.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85692687.jpg" group-title="THAMANYA SPORTS",Thamanya 2 Sport HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/85692687.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85692684.jpg" group-title="THAMANYA SPORTS",Thamanya 2 Sport 4K
+http://0809-2026.info:8089/live/3604284623086/7463647389596/85692684.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85692688.jpg" group-title="THAMANYA SPORTS",Thamanya 3 Sport HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/85692688.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/85692685.jpg" group-title="THAMANYA SPORTS",Thamanya 3 Sport 4K
+http://0809-2026.info:8089/live/3604284623086/7463647389596/85692685.ts
+
+
+
+
+
+
+
+
+
+
 # ===== SSC SPORTS =====
 
 #EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/ssc1.png" group-title="SSC SPORTS",SSC 1 HD

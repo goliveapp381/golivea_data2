@@ -1,32 +1,80 @@
 [
   {
-    "home": "Moghreb Tétouan",
-    "away": "FUS Rabat",
-    "time": "20:00",
-    "channel": "Arryadia HD"
+    "home": "Arsenal",
+    "away": "Leeds United",
+    "time": "12:30",
+    "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Málaga",
-    "away": "Espanyol",
-    "time": "19:00",
+    "home": "Aston Villa",
+    "away": "Brentford",
+    "time": "14:00",
     "channel": "beIN Sports 2 HD"
   },
   {
-    "home": "Al Fateh",
-    "away": "Al Ahli",
-    "time": "14:55",
-    "channel": "Thamanya 1 Sport HD"
+    "home": "Chelsea",
+    "away": "Bournemouth",
+    "time": "14:00",
+    "channel": "beIN Sports 3 HD"
   },
   {
-    "home": "Al Nassr",
-    "away": "Al Diriyah",
-    "time": "18:00",
-    "channel": "Thamanya 2 Sport HD"
+    "home": "Ipswich Town",
+    "away": "Fulham",
+    "time": "14:00",
+    "channel": "beIN Sports 4 HD"
   },
   {
-    "home": "Borussia Dortmund",
-    "away": "Werder Bremen",
-    "time": "18:30",
+    "home": "Sunderland",
+    "away": "Brighton",
+    "time": "14:00",
     "channel": "beIN Sports 5 HD"
+  },
+  {
+    "home": "Manchester United",
+    "away": "Tottenham",
+    "time": "16:30",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "Rayo Vallecano",
+    "away": "Athletic Bilbao",
+    "time": "13:00",
+    "channel": "beIN Sports 3 HD"
+  },
+  {
+    "home": "Deportivo Alavés",
+    "away": "Atlético Madrid",
+    "time": "14:15",
+    "channel": "beIN Sports 3 HD"
+  },
+  {
+    "home": "Barcelona",
+    "away": "Getafe",
+    "time": "16:30",
+    "channel": "beIN Sports 3 HD"
+  },
+  {
+    "home": "Real Madrid",
+    "away": "Villarreal",
+    "time": "19:00",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "Genoa",
+    "away": "Fiorentina",
+    "time": "14:00",
+    "channel": "beIN Sports 4 HD"
+  },
+  {
+    "home": "Inter",
+    "away": "Parma",
+    "time": "16:00",
+    "channel": "beIN Sports 4 HD"
+  },
+  {
+    "home": "Napoli",
+    "away": "Frosinone",
+    "time": "18:45",
+    "channel": "beIN Sports 4 HD"
   }
 ]

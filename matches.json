@@ -21,54 +21,54 @@
     "home": "Elche",
     "away": "Celta Vigo",
     "time": "12:00",
-    "channel": "beIN Sports 3 HD"
+    "channel": "beIN Sports 1 HD"
   },
   {
     "home": "Real Sociedad",
     "away": "Deportivo La Coruña",
     "time": "14:15",
-    "channel": "beIN Sports 3 HD"
+    "channel": "beIN Sports 2 HD"
   },
   {
     "home": "Real Betis",
     "away": "Osasuna",
     "time": "16:30",
-    "channel": "beIN Sports 2 HD"
+    "channel": "beIN Sports 3 HD"
   },
   {
     "home": "Racing Santander",
     "away": "Valencia",
     "time": "19:00",
-    "channel": "beIN Sports 2 HD"
+    "channel": "beIN Sports 1 HD"
   },
   {
     "home": "Como",
     "away": "Roma",
     "time": "10:30",
-    "channel": "beIN Sports 4 HD"
+    "channel": "StarzPlay Sports HD"
   },
   {
     "home": "Lecce",
     "away": "Bologna",
     "time": "13:00",
-    "channel": "beIN Sports 4 HD"
+    "channel": "StarzPlay Sports HD"
   },
   {
     "home": "Lazio",
     "away": "Monza",
     "time": "13:00",
-    "channel": "beIN Sports 5 HD"
+    "channel": "StarzPlay Sports HD"
   },
   {
     "home": "Sassuolo",
     "away": "Milan",
     "time": "16:00",
-    "channel": "beIN Sports 4 HD"
+    "channel": "StarzPlay Sports HD"
   },
   {
     "home": "Cagliari",
     "away": "Juventus",
     "time": "18:45",
-    "channel": "beIN Sports 4 HD"
+    "channel": "StarzPlay Sports HD"
   }
 ]

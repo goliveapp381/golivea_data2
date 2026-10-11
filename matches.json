@@ -1,80 +1,74 @@
 [
   {
-    "home": "Arsenal",
-    "away": "Leeds United",
-    "time": "12:30",
+    "home": "Elche",
+    "away": "Celta Vigo",
+    "time": "12:00",
     "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Aston Villa",
-    "away": "Brentford",
-    "time": "14:00",
+    "home": "Real Sociedad",
+    "away": "Deportivo La Coruña",
+    "time": "14:15",
     "channel": "beIN Sports 2 HD"
   },
   {
-    "home": "Chelsea",
-    "away": "Bournemouth",
-    "time": "14:00",
-    "channel": "beIN Sports 3 HD"
-  },
-  {
-    "home": "Ipswich Town",
-    "away": "Fulham",
-    "time": "14:00",
-    "channel": "beIN Sports 4 HD"
-  },
-  {
-    "home": "Sunderland",
-    "away": "Brighton",
-    "time": "14:00",
-    "channel": "beIN Sports 5 HD"
-  },
-  {
-    "home": "Manchester United",
-    "away": "Tottenham",
-    "time": "16:30",
-    "channel": "beIN Sports 1 HD"
-  },
-  {
-    "home": "Rayo Vallecano",
-    "away": "Athletic Bilbao",
-    "time": "13:00",
-    "channel": "beIN Sports 3 HD"
-  },
-  {
-    "home": "Deportivo Alavés",
-    "away": "Atlético Madrid",
-    "time": "14:15",
-    "channel": "beIN Sports 3 HD"
-  },
-  {
-    "home": "Barcelona",
-    "away": "Getafe",
+    "home": "Real Betis",
+    "away": "Osasuna",
     "time": "16:30",
     "channel": "beIN Sports 3 HD"
   },
   {
-    "home": "Real Madrid",
-    "away": "Villarreal",
+    "home": "Racing Santander",
+    "away": "Valencia",
     "time": "19:00",
     "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Genoa",
-    "away": "Fiorentina",
-    "time": "14:00",
+    "home": "Como",
+    "away": "Roma",
+    "time": "10:30",
     "channel": "beIN Sports 4 HD"
   },
   {
-    "home": "Inter",
-    "away": "Parma",
+    "home": "Lecce",
+    "away": "Bologna",
+    "time": "13:00",
+    "channel": "beIN Sports 4 HD"
+  },
+  {
+    "home": "Lazio",
+    "away": "Monza",
+    "time": "13:00",
+    "channel": "beIN Sports 5 HD"
+  },
+  {
+    "home": "Sassuolo",
+    "away": "Milan",
     "time": "16:00",
     "channel": "beIN Sports 4 HD"
   },
   {
-    "home": "Napoli",
-    "away": "Frosinone",
+    "home": "Cagliari",
+    "away": "Juventus",
     "time": "18:45",
     "channel": "beIN Sports 4 HD"
+  },
+  {
+    "home": "Crystal Palace",
+    "away": "Nottingham Forest",
+    "time": "13:00",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "Hull City",
+    "away": "Everton",
+    "time": "13:00",
+    "channel": "beIN Sports 2 HD"
+  },
+  {
+    "home": "Liverpool",
+    "away": "Manchester City",
+    "time": "15:30",
+    "channel": "beIN Sports 1 HD"
   }
 ]

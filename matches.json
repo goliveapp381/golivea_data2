@@ -1,5 +1,23 @@
 [
   {
+    "home": "Crystal Palace",
+    "away": "Nottingham Forest",
+    "time": "13:00",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
+    "home": "Hull City",
+    "away": "Everton",
+    "time": "13:00",
+    "channel": "beIN Sports 2 HD"
+  },
+  {
+    "home": "Liverpool",
+    "away": "Manchester City",
+    "time": "15:30",
+    "channel": "beIN Sports 1 HD"
+  },
+  {
     "home": "Elche",
     "away": "Celta Vigo",
     "time": "12:00",
@@ -52,23 +70,5 @@
     "away": "Juventus",
     "time": "18:45",
     "channel": "beIN Sports 4 HD"
-  },
-  {
-    "home": "Crystal Palace",
-    "away": "Nottingham Forest",
-    "time": "13:00",
-    "channel": "beIN Sports 1 HD"
-  },
-  {
-    "home": "Hull City",
-    "away": "Everton",
-    "time": "13:00",
-    "channel": "beIN Sports 2 HD"
-  },
-  {
-    "home": "Liverpool",
-    "away": "Manchester City",
-    "time": "15:30",
-    "channel": "beIN Sports 1 HD"
   }
 ]

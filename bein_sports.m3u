@@ -186,6 +186,16 @@ http://0809-2026.info:8089/live/3604284623086/7463647389596/85692685.ts
 
 
 
+# ===== StarzPlay Sports =====
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/470.jpg" group-title="StarzPlay Sports",StarzPlay Sport SD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/470.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/471.jpg" group-title="StarzPlay Sports",StarzPlay Sports HD
+http://0809-2026.info:8089/live/3604284623086/7463647389596/471.ts
+
+#EXTINF:-1 tvg-logo="http://0809-2026.info:8089/logo/chn/472.jpg" group-title="StarzPlay Sports",StarzPlay Sport 4K
+http://0809-2026.info:8089/live/3604284623086/7463647389596/472.ts
 
 
 

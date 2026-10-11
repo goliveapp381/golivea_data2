@@ -12,39 +12,39 @@
     "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/manchester-city.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/3/36/Elche_CF_logo.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/1/12/RC_Celta_de_Vigo_sad_logo.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/elche.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/celta-vigo.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/f/f1/Real_Sociedad_logo.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/7/7b/Deportivo_La_Coruna_logo.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/real-sociedad.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/deportivo-la-coruna.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/1/13/Real_Betis_Balompi%C3%A9_%28logo%29.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/d/db/CA_Osasuna_logo.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/real-betis.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/osasuna.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/a/a2/Real_Racing_Club_de_Santander_logo.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/a/aa/Valencia_CF_%28shield%29.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/racing-santander.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/valencia.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/1/1b/Como_1907_logo.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/f/f7/AS_Roma_logo_%282017%29.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/como.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/roma.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/5/52/U.S._Lecce_logo.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/b/b9/Bologna_FC_1909_logo.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/lecce.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/bologna.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/c/ce/S.S._Lazio_badge.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/7/74/AC_Monza_logo.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/lazio.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/monza.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/f/f8/U.S._Sassuolo_Calcio_logo.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/d/d0/AC_Milan_logo_2024.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/sassuolo.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/milan.png"
   },
   {
-    "homeLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/6/6f/Cagliari_Calcio_1920_logo.svg&output=png",
-    "awayLogo": "https://wsrv.nl/?url=upload.wikimedia.org/wikipedia/en/d/d2/Juventus_FC_2017_icon.svg&output=png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/cagliari.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/juventus.png"
   }
 ]

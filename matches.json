@@ -1,73 +1,31 @@
 [
   {
-    "home": "Crystal Palace",
-    "away": "Nottingham Forest",
-    "time": "13:00",
-    "channel": "beIN Sports 1 SD"
+    "home": "Hassania Agadir",
+    "away": "FAR Rabat",
+    "time": "20:00",
+    "channel": "Arryadia HD"
   },
   {
-    "home": "Hull City",
-    "away": "Everton",
-    "time": "13:00",
-    "channel": "beIN Sports 2 SD"
-  },
-  {
-    "home": "Liverpool",
-    "away": "Manchester City",
-    "time": "15:30",
-    "channel": "beIN Sports 1 SD"
-  },
-  {
-    "home": "Elche",
-    "away": "Celta Vigo",
-    "time": "12:00",
-    "channel": "beIN Sports 3 SD"
-  },
-  {
-    "home": "Real Sociedad",
-    "away": "Deportivo La Coruña",
-    "time": "14:15",
-    "channel": "beIN Sports 3 SD"
-  },
-  {
-    "home": "Real Betis",
-    "away": "Osasuna",
-    "time": "16:30",
-    "channel": "beIN Sports 2 SD"
-  },
-  {
-    "home": "Racing Santander",
-    "away": "Valencia",
+    "home": "Coventry City",
+    "away": "Newcastle United",
     "time": "19:00",
-    "channel": "beIN Sports 2 SD"
+    "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Como",
-    "away": "Roma",
-    "time": "10:30",
+    "home": "Levante",
+    "away": "Sevilla",
+    "time": "19:00",
+    "channel": "beIN Sports 3 HD"
+  },
+  {
+    "home": "Atalanta",
+    "away": "Venezia",
+    "time": "16:30",
     "channel": "StarzPlay Sports HD"
   },
   {
-    "home": "Lecce",
-    "away": "Bologna",
-    "time": "13:00",
-    "channel": "StarzPlay Sports HD"
-  },
-  {
-    "home": "Lazio",
-    "away": "Monza",
-    "time": "13:00",
-    "channel": "StarzPlay Sports HD"
-  },
-  {
-    "home": "Sassuolo",
-    "away": "Milan",
-    "time": "16:00",
-    "channel": "StarzPlay Sports HD"
-  },
-  {
-    "home": "Cagliari",
-    "away": "Juventus",
+    "home": "Torino",
+    "away": "Udinese",
     "time": "18:45",
     "channel": "StarzPlay Sports HD"
   }

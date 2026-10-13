@@ -1,67 +1,67 @@
 [
   {
-    "home": "Lens",
-    "away": "Sporting",
+    "home": "Feyenoord",
+    "away": "Como",
     "time": "16:45",
-    "channel": "beIN Sports 3 LOW"
+    "channel": "beIN Sports 1 SD"
   },
   {
-    "home": "Sabah",
-    "away": "Slavia Praha",
+    "home": "LASK Linz",
+    "away": "Liverpool",
     "time": "16:45",
-    "channel": "beIN Sports 4 LOW"
+    "channel": "beIN Sports 2 SD"
   },
   {
-    "home": "Arsenal",
-    "away": "Lille",
+    "home": "Roma",
+    "away": "Real Madrid",
     "time": "19:00",
-    "channel": "beIN Sports 4 LOW"
+    "channel": "beIN Sports 3 SD"
   },
   {
-    "home": "Atlético Madrid",
-    "away": "Man Utd",
+    "home": "Aston Villa",
+    "away": "Fenerbahçe",
     "time": "19:00",
-    "channel": "beIN Sports 5 LOW"
+    "channel": "beIN Sports 4 SD"
   },
   {
-    "home": "Galatasaray",
-    "away": "Barcelona",
+    "home": "Real Betis",
+    "away": "Porto",
     "time": "19:00",
-    "channel": "beIN Sports 1 LOW"
+    "channel": "beIN Sports 5 SD"
   },
   {
-    "home": "Inter",
-    "away": "Club Brugge",
+    "home": "Bodø/Glimt",
+    "away": "Borussia Dortmund",
     "time": "19:00",
-    "channel": "beIN Sports 6 LOW"
+    "channel": "beIN Sports 6 SD"
   },
   {
-    "home": "Leipzig",
-    "away": "PSV",
+    "home": "Manchester City",
+    "away": "Paris Saint-Germain",
     "time": "19:00",
     "channel": "beIN Sports 1 SD"
   },
   {
-    "home": "Viking",
-    "away": "Bayern",
+    "home": "Shakhtar Donetsk",
+    "away": "AEK Athens",
     "time": "19:00",
     "channel": "beIN Sports 7 SD"
   },
   {
-    "home": "Villarreal",
-    "away": "Napoli",
+    "home": "Slovan Bratislava",
+    "away": "VfB Stuttgart",
     "time": "19:00",
     "channel": "beIN Sports 8 SD"
   },
   {
-    "home": "RS Berkane",
-    "away": "Renaissance Zemamra",
-    "time": "18:00",
+    "home": "FAR Rabat",
+    "away": "Raja CA",
+    "time": "ؤجلت",
     "channel": "Arryadia HD"
   },
   {
-    "home": "FUS Rabat",
-    "away": "Raja CA",
+    "home": "Ittihad Tanger",
+    "away": "MAS Fes",
     "time": "20:00",
     "channel": "Arryadia HD"
   }

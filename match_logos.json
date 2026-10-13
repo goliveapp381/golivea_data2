@@ -5,30 +5,30 @@
   },
   {
     "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/sabah.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/slavia-praha.png"
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/slavia.png"
   },
   {
     "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/arsenal.png",
     "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/lille.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/atletico-madrid.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/man-utd.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/atletico_madrid.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/manchester.png"
   },
   {
     "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/galatasaray.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/barcelona.png"
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/barcelona.jpeg"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/inter.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/club-brugge.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/internazionale.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/brugge.png"
   },
   {
     "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/leipzig.png",
     "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/psv.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/viking.png",
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/vikings.png",
     "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/bayern.png"
   },
   {
@@ -36,11 +36,11 @@
     "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/napoli.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/rs-berkane.png",
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/barkan.png",
     "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/zemamra.png"
   },
   {
-    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/fus-rabat.png",
-    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/raja-ca.png"
+    "homeLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/fus.png",
+    "awayLogo": "https://cdn.jsdelivr.net/gh/goliveapp381/golivea_data2@main/logo/raja.png"
   }
 ]

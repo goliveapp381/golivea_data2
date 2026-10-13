@@ -1,32 +1,68 @@
 [
   {
-    "home": "Hassania Agadir",
-    "away": "FAR Rabat",
-    "time": "20:00",
-    "channel": "Arryadia HD"
+    "home": "Lens",
+    "away": "Sporting",
+    "time": "16:45",
+    "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Coventry City",
-    "away": "Newcastle United",
+    "home": "Sabah",
+    "away": "Slavia Praha",
+    "time": "16:45",
+    "channel": "beIN Sports 2 HD"
+  },
+  {
+    "home": "Arsenal",
+    "away": "Lille",
     "time": "19:00",
     "channel": "beIN Sports 1 HD"
   },
   {
-    "home": "Levante",
-    "away": "Sevilla",
+    "home": "Atlético Madrid",
+    "away": "Man Utd",
+    "time": "19:00",
+    "channel": "beIN Sports 2 HD"
+  },
+  {
+    "home": "Galatasaray",
+    "away": "Barcelona",
     "time": "19:00",
     "channel": "beIN Sports 3 HD"
   },
   {
-    "home": "Atalanta",
-    "away": "Venezia",
-    "time": "16:30",
-    "channel": "StarzPlay Sports HD"
+    "home": "Inter",
+    "away": "Club Brugge",
+    "time": "19:00",
+    "channel": "beIN Sports 4 HD"
   },
   {
-    "home": "Torino",
-    "away": "Udinese",
-    "time": "18:45",
-    "channel": "StarzPlay Sports HD"
+    "home": "Leipzig",
+    "away": "PSV",
+    "time": "19:00",
+    "channel": "beIN Sports 5 HD"
+  },
+  {
+    "home": "Viking",
+    "away": "Bayern",
+    "time": "19:00",
+    "channel": "beIN Sports 6 HD"
+  },
+  {
+    "home": "Villarreal",
+    "away": "Napoli",
+    "time": "19:00",
+    "channel": "beIN Sports 7 HD"
+  },
+  {
+    "home": "RS Berkane",
+    "away": "Renaissance Zemamra",
+    "time": "18:00",
+    "channel": "Arryadia HD"
+  },
+  {
+    "home": "FUS Rabat",
+    "away": "Raja CA",
+    "time": "20:00",
+    "channel": "Arryadia HD"
   }
 ]

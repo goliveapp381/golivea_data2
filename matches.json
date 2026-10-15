@@ -1,68 +1,236 @@
 [
   {
-    "home": "Feyenoord",
-    "away": "Como",
+    "home": "AZ Alkmaar",
+    "away": "Hapoel Be'er Sheva",
     "time": "16:45",
     "channel": "beIN Sports 1 SD"
   },
   {
-    "home": "LASK Linz",
-    "away": "Liverpool",
+    "home": "Silkeborg",
+    "away": "Omonia Nicosia",
     "time": "16:45",
     "channel": "beIN Sports 2 SD"
   },
   {
-    "home": "Roma",
-    "away": "Real Madrid",
-    "time": "19:00",
+    "home": "Lech Poznań",
+    "away": "Bayer Leverkusen",
+    "time": "16:45",
     "channel": "beIN Sports 3 SD"
   },
   {
-    "home": "Aston Villa",
-    "away": "Fenerbahçe",
-    "time": "19:00",
+    "home": "Lyon",
+    "away": "Crystal Palace",
+    "time": "16:45",
     "channel": "beIN Sports 4 SD"
   },
   {
-    "home": "Real Betis",
-    "away": "Porto",
-    "time": "19:00",
+    "home": "Union Saint-Gilloise",
+    "away": "Real Sociedad",
+    "time": "16:45",
     "channel": "beIN Sports 5 SD"
   },
   {
-    "home": "Bodø/Glimt",
-    "away": "Borussia Dortmund",
-    "time": "19:00",
+    "home": "Red Bull Salzburg",
+    "away": "Milan",
+    "time": "16:45",
     "channel": "beIN Sports 6 SD"
   },
   {
-    "home": "Manchester City",
-    "away": "Paris Saint-Germain",
+    "home": "Sparta Prague",
+    "away": "Lillestrøm",
+    "time": "16:45",
+    "channel": "beIN Sports 7 SD"
+  },
+  {
+    "home": "Torino",
+    "away": "Sunderland",
+    "time": "16:45",
+    "channel": "beIN Sports 8 SD"
+  },
+  {
+    "home": "Benfica",
+    "away": "Celtic",
     "time": "19:00",
     "channel": "beIN Sports 1 SD"
   },
   {
-    "home": "Shakhtar Donetsk",
-    "away": "AEK Athens",
+    "home": "Bournemouth",
+    "away": "Sturm Graz",
+    "time": "19:00",
+    "channel": "beIN Sports 2 SD"
+  },
+  {
+    "home": "Celta Vigo",
+    "away": "Juventus",
+    "time": "19:00",
+    "channel": "beIN Sports 3 SD"
+  },
+  {
+    "home": "Dinamo Zagreb",
+    "away": "Anderlecht",
+    "time": "19:00",
+    "channel": "beIN Sports 4 SD"
+  },
+  {
+    "home": "Ferencváros",
+    "away": "Viktoria Plzeň",
+    "time": "19:00",
+    "channel": "beIN Sports 5 SD"
+  },
+  {
+    "home": "Hoffenheim",
+    "away": "Beşiktaş",
+    "time": "19:00",
+    "channel": "beIN Sports 6 SD"
+  },
+  {
+    "home": "Jagiellonia Białystok",
+    "away": "Ararat-Armenia",
     "time": "19:00",
     "channel": "beIN Sports 7 SD"
   },
   {
-    "home": "Slovan Bratislava",
-    "away": "VfB Stuttgart",
+    "home": "Marseille",
+    "away": "Olympiacos",
     "time": "19:00",
     "channel": "beIN Sports 8 SD"
   },
   {
-    "home": "FAR Rabat",
-    "away": "Raja CA",
-    "time": "ؤجلت",
-    "channel": "Arryadia HD"
+    "home": "NEC Nijmegen",
+    "away": "Levski Sofia",
+    "time": "19:00",
+    "channel": "beIN Sports 1 SD"
   },
   {
-    "home": "Ittihad Tanger",
-    "away": "MAS Fes",
-    "time": "20:00",
-    "channel": "Arryadia HD"
+    "home": "Rennes",
+    "away": "OFI Crete",
+    "time": "19:00",
+    "channel": "beIN Sports 2 SD"
+  },
+  {
+    "home": "Al-Faisaly",
+    "away": "Al-Kholood",
+    "time": "24'",
+    "channel": "beIN Sports 3 SD"
+  },
+  {
+    "home": "Al-Khaleej",
+    "away": "Al-Fayha",
+    "time": "14:50",
+    "channel": "beIN Sports 4 SD"
+  },
+  {
+    "home": "Al-Hazem",
+    "away": "Al-Fateh",
+    "time": "15:15",
+    "channel": "beIN Sports 5 SD"
+  },
+  {
+    "home": "Hajduk Split",
+    "away": "Ajax",
+    "time": "16:45",
+    "channel": "beIN Sports 1 SD"
+  },
+  {
+    "home": "CSKA Sofia",
+    "away": "Monaco",
+    "time": "16:45",
+    "channel": "beIN Sports 2 SD"
+  },
+  {
+    "home": "Panathinaikos",
+    "away": "Borac Banja Luka",
+    "time": "16:45",
+    "channel": "beIN Sports 3 SD"
+  },
+  {
+    "home": "Midtjylland",
+    "away": "Sturm Graz",
+    "time": "16:45",
+    "channel": "beIN Sports 4 SD"
+  },
+  {
+    "home": "Lugano",
+    "away": "Red Star Belgrade",
+    "time": "16:45",
+    "channel": "beIN Sports 5 SD"
+  },
+  {
+    "home": "Gent",
+    "away": "Aarhus",
+    "time": "16:45",
+    "channel": "beIN Sports 6 SD"
+  },
+  {
+    "home": "Universitatea Craiova",
+    "away": "Getafe",
+    "time": "16:45",
+    "channel": "beIN Sports 7 SD"
+  },
+  {
+    "home": "KuPS",
+    "away": "Trabzonspor",
+    "time": "16:45",
+    "channel": "beIN Sports 8 SD"
+  },
+  {
+    "home": "Riga",
+    "away": "Kairat Almaty",
+    "time": "16:45",
+    "channel": "beIN Sports 1 SD"
+  },
+  {
+    "home": "Maliqi",
+    "away": "Escaldes",
+    "time": "16:45",
+    "channel": "beIN Sports 2 SD"
+  },
+  {
+    "home": "Copenhagen",
+    "away": "Sporting Braga",
+    "time": "19:00",
+    "channel": "beIN Sports 1 SD"
+  },
+  {
+    "home": "Freiburg",
+    "away": "Jablonec",
+    "time": "19:00",
+    "channel": "beIN Sports 2 SD"
+  },
+  {
+    "home": "Atalanta",
+    "away": "Pafos",
+    "time": "19:00",
+    "channel": "beIN Sports 3 SD"
+  },
+  {
+    "home": "Brighton",
+    "away": "Žalgiris",
+    "time": "19:00",
+    "channel": "beIN Sports 4 SD"
+  },
+  {
+    "home": "FC Twente",
+    "away": "Thun",
+    "time": "19:00",
+    "channel": "beIN Sports 5 SD"
+  },
+  {
+    "home": "Brann",
+    "away": "Lincoln Red Imps",
+    "time": "19:00",
+    "channel": "beIN Sports 6 SD"
+  },
+  {
+    "home": "Sint-Truiden",
+    "away": "Saburtalo Tbilisi",
+    "time": "19:00",
+    "channel": "beIN Sports 7 SD"
+  },
+  {
+    "home": "Heart of Midlothian",
+    "away": "Nordsjælland",
+    "time": "19:00",
+    "channel": "beIN Sports 8 SD"
   }
 ]
